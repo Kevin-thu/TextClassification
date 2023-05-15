@@ -1,0 +1,6 @@
+torch==2.0.0
+gensim==4.3.0
+omegaconf==2.3.0
+scikit_learn==1.2.2
+tqdm==4.65.0
+transformers==4.28.1
